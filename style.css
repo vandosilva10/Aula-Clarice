@@ -1,0 +1,130 @@
+* {
+    * {
+    margin: 0;
+    padding: 0;
+
+}
+
+header {
+    margin: 10px 50px;
+}
+
+nav {
+    display: flex;
+    align-items: start;
+    justify-content: space-between;
+    gap: 50px;
+}
+hr {
+    margin-top: 10px;
+    width: 100%;
+    color: black;
+    border: 1px solid black;
+}
+.optimusTech {
+    font-size: 18px;
+}
+
+.class1 {
+    gap: 8px;
+    max-width: 110px;
+    display: flex;
+    font-size: 16px ;
+}
+
+.class2 {
+    font-size: 16px;
+    gap: 32px;
+    max-width: 400px;
+    font-size: 16px;
+}
+
+.class3 {
+    gap: 12px;
+    align-items: baseline;
+
+}
+
+.cadastrar {
+    background-color: #8E2424;
+    color: aliceblue;
+    padding: 5px 10px;
+    border-radius: 8px;
+}
+
+.class4 {
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+    margin-top: 96px;
+    align-items: center;
+    gap: 26px;
+}
+
+.class4-1 {
+    color: #8E2424;
+    max-width: 78px;
+    font-size: 16px;
+}
+
+.class4-2 {
+    max-width: 620px;
+    font-size: 48px;
+}
+
+.class4-3 {
+    max-width: 791px;
+    font-size: 20px;
+}
+.class5 {
+    padding: 0 96px 96px 96px;
+    display: flex;
+    gap: 32px;
+    margin-top: 70px;
+    justify-content: center;
+}
+.class5-1-1 {
+    font-size: 60px;
+    color: #8E2424;
+    max-width: 280px;
+}
+.class5-2-1 {
+    font-size: 18px;
+    max-width: 280px;
+    margin-top: 16px;
+}
+.class5-3-1 {
+    font-size: 18px;
+    max-width: 280px;
+    margin-top: 16px;
+    color: #667085;
+}   
+footer {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+.class6-1 {
+    font-size: 36px;
+    margin-bottom: 16px;
+    max-width: 768px;
+}
+.class6-2 {
+    font-size: 20px;
+    max-width: 768px;
+    text-align: center;
+    color: #667085;
+}
+.cadastro2 {
+    background-color: #8E2424;
+    color: aliceblue;
+    padding: 5px 10px;
+    border-radius: 8px;
+    margin-top: 16px;
+
+}
+.class6-3 {
+    font-size: 16px;
+    color: #98A2B3;
+    margin-top: 32px;
+}
