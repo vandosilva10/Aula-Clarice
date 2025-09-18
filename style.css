@@ -42,6 +42,8 @@ hr {
     gap: 32px;
     max-width: 400px;
     font-size: 16px;
+    text-align: center;
+    align-items: center;
 }
 
 .class3 {
@@ -64,6 +66,8 @@ hr {
     margin-top: 96px;
     align-items: center;
     gap: 26px;
+    
+
 }
 
 .class4-1 {
