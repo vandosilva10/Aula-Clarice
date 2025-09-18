@@ -21,6 +21,11 @@ hr {
     color: black;
     border: 1px solid black;
 }
+.img2 {
+    border-radius: 8px;
+    max-width: 100%;
+    height: auto;
+}
 .optimusTech {
     font-size: 18px;
 }
